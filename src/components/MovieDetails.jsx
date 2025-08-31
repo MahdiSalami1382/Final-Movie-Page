@@ -5,7 +5,7 @@ const MovieDetails = () => {
     <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mt-10">
       <div>
         <img
-          src="/images/poster.jpg"
+          src="../images/Avengers.jpg"
           alt="Avengers Poster"
           className="w-full rounded-xl shadow-lg"
         />
