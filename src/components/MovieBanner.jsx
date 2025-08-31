@@ -4,7 +4,7 @@ const MovieBanner = () => {
   return (
     <div className="relative w-full h-[300px] md:h-[400px] rounded-2xl overflow-hidden">
       <img
-        src="/images/banner.jpg"
+        src="../images/Avengers.jpg"
         alt="Movie Banner"
         className="w-full h-full object-cover"
       />
